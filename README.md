@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Statics, Pyspark
 - 💞️ I’m looking to collaborate on DataScience Projects
 - 📫 Feel free to connect at [email](mailto:somyasingh018j@gmail.com) or <a href="https://www.linkedin.com/in/somyasingh0728/">
-  <img align="left" alt="Somya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+  <img  alt="Somya's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
   
  
   
