@@ -9,6 +9,9 @@
   
 <br/><br/><br/>
 ![Somya's github stats](https://github-readme-stats.vercel.app/api?username=somya0728)
+
+    <a href="https://github.com/somya0728/github-readme-stats"><img alt="Somya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somya0728&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/somya0728/github-readme-stats"><img alt="Somya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somya0728&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
   
    
