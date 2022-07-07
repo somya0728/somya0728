@@ -6,9 +6,6 @@
   <img valign='middle' alt="Somya's LinkedIN" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
   
   
-  
-<br/><br/><br/>
-![Somya's github stats](https://github-readme-stats.vercel.app/api?username=somya0728)
 
  
  <br/><br/><br/> 
@@ -17,6 +14,9 @@
   
    
 <!---
+  
+<br/><br/><br/>
+![Somya's github stats](https://github-readme-stats.vercel.app/api?username=somya0728)
 somya0728/somya0728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
